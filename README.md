@@ -1,1 +1,1 @@
-# Basic sample apps to practice react!
+# Basic Widgets apps in react!
